@@ -16,3 +16,9 @@ The architecture of the model used is described in the image below:
 
 (add image)
 
+The final accuracy achieved was: 71.6% on the test dataset.
+
+Plot displaying test error and train error:
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/cf99db3e-4aa3-42bf-8b87-2ee5fb63608a" width = "800"/>
+</p>
